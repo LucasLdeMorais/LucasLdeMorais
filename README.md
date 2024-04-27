@@ -1,20 +1,17 @@
 <h1 align="center">✨ Welcome to my Github profile! ✨</h1>
 
-<div id="header" align="center">
-  <img src="https://cdn.openart.ai/uploads/image_PLOb_PXR_1714241249806_raw.png" width="200"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/lucas-l-794657163"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="https://www.instagram.com/devlucasldemorais"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
-  </div>
-</div>
-
-#### About me 💁‍♂️
+### About me 💁‍♂️
 - 🐧 Linux squad
 - 🌱 I’m currently studying next.js development and cypress e2e testing
 - 👯 I really enjoy team work
 - 🎓 Bachelor degree in information systems
 - 🎮 Action rpg enthusiast
 - ⚡ Fun fact: i like goblins
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lucas-l-794657163"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.instagram.com/devlucasldemorais"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/></a>
+</div>
 
 #### Languages and Tools 🛠️
 ##### Langs:
